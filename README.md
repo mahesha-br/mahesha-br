@@ -3,7 +3,7 @@
 <a href="https://x.com/mahesha_br" target="__blank"><img src="https://img.shields.io/twitter/follow/mahesha_br?style=social" alt="Twitter"></a>
 <a href="https://leetcode.com/u/MaheshaBR/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </a>
-<a href="https://mahesh.dev" target="__blank">Mahesha`s Portfolio<img src="https://avatars.githubusercontent.com/u/190386969?v=4" style="width:40px;height:40px;" alt="Porfolio"></a>
+<a href="https://mahesha.dev" target="__blank">Mahesha`s Portfolio<img src="https://avatars.githubusercontent.com/u/190386969?v=4" style="width:40px;height:40px;" alt="Porfolio"></a>
 
 <br>
 
