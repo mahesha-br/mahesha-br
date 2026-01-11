@@ -77,7 +77,6 @@ Explore the side-projects, blogs and live demos to see how I apply these technol
 ## 🌱 What I’m Learning & Interested In  
 
 - Serverless Architectures & Microservices  
-- Mobile-first Experiences with React Native  
 - AI/ML integration in full-stack applications  
 - Performance optimisation & scalable architecture  
 
