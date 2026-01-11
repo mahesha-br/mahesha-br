@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/twitter/follow/mahesha_br?style=social" alt="Twitter" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/u/MaheshaBR/" target="_blank">
+  <a href="https://www.linkedin.com/in/mahesha-br-3096822b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
