@@ -24,7 +24,6 @@ Let’s connect and collaborate!
 | **Frontend**     | React.js, Next.js, Tailwind CSS                                    |
 | **Backend**      | Node.js, Express.js                                                          |
 | **Languages**    | Java,Typescript/Javascript,Python,HTML5,CSS                                |
-| **Mobile**       | React Native  ,Android Developement                                                               |
 | **Database**     | PostgreSQL, MongoDB                                                          |
 | **DevOps & Tools** | Docker, AWS, Git, GitHub, Linux (moderate)                                   |
 
