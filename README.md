@@ -31,7 +31,7 @@
 ## 🚀 Tech Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,nodejs,tailwind,express,react,docker,postgres,mongodb,mysql,aws,git,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,nodejs,tailwind,express,react,docker,postgres,mongodb,mysql,aws,git,vercel,firebase,ai" />
 </p>
 
 ---
